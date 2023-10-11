@@ -71,7 +71,7 @@ public class FirstController {
     }
 
     // @RequestMapping("/student-lists")
-    // // @ResponseBody
+    // // // @ResponseBody
     // public List<Student> getStudents(){
     // List<Student> students = new ArrayList<>();
     // students.add(new Student (1,"harry","harry@student.com"));
